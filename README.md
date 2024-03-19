@@ -3,8 +3,9 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- SOU CEO DA CRIPTCOS - NOWFREELA - RENDEY
 - 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="link da sua faculdade">FIAP</a>.
-- 💼 Procurando Estágio na aréa **T.I Periodo Noturno**
+- 💼 Estágio na aréa **T.I Periodo Noturno NA FIAP**
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA, PYTHON, REACT NATIVE, ANDROID, AWS**.
 
 <h3>Minhas Skills</h3>
