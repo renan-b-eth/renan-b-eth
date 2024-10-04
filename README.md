@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- SOU CEO DA CRIPTCOS - NOWFREELA - RENDEY
+- SOU CEO DA **CRIPTCOS HOLDING, PROPRIETARIO DA *RENDEY LLC* E COPROPRIETARIO DA *PRAETOR LLC***
 - 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="link da sua faculdade">FIAP</a>.
 - 💼 Estágio na aréa **T.I Periodo Noturno NA FIAP**
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA, PYTHON, REACT NATIVE, ANDROID, AWS**.
