@@ -2,7 +2,9 @@
 
 **Professor de Desenvolvimento de Sistemas | Tecnologia, educação e inteligência artificial**
 
-Sou professor de Desenvolvimento de Sistemas na rede estadual de São Paulo. Meu trabalho conecta programação, aprendizagem por projetos e participação em comunidades de tecnologia.
+Sou professor de Desenvolvimento de Sistemas na rede estadual de São Paulo. Trabalho com programação, inteligência artificial aplicada à educação e aprendizagem por projetos. Organizo o EstaThon, iniciativa de hackathon com estudantes da rede pública, e participo de programas de mentoria e comunidades de tecnologia.
+
+[Portfólio](https://site-renanbezerra.vercel.app) · [LinkedIn](https://www.linkedin.com/in/renan-b-eth/) · [ORCID](https://orcid.org/0009-0007-0258-220X)
 
 ## Educação e comunidade
 
@@ -143,10 +145,13 @@ Participação em encontros de tecnologia, IA e startups em São Paulo. Sem cert
 
 ## Projetos em destaque
 
-- [ScrollCaro](https://github.com/renan-b-eth/ScrollCaro): MVP de bot de WhatsApp (Next.js, Node).
-- [ia-saas](https://github.com/renan-b-eth/ia-saas): SaaS de varejo com IA (Flask, Docker).
-- [monitorando-concurso](https://github.com/renan-b-eth/monitorando-concurso): app Expo/React Native que monitora concursos de TI e educação.
-- [rendey](https://github.com/renan-b-eth/rendey): site da Rendey LLC (Next.js, Tailwind).
+- [ScrollCaro](https://github.com/renan-b-eth/ScrollCaro): MVP de bot de WhatsApp que estima o custo financeiro da procrastinação. Front-end em Next.js e back-end em Node.js, Express e TypeScript.
+- [Rendey Class Backend](https://github.com/renan-b-eth/rendey-class-backend): back-end em FastAPI para agentes de apoio ao professor, com opções de integração com Azure OpenAI e NVIDIA.
+- [Monitorando Concursos](https://github.com/renan-b-eth/monitorando-concurso): protótipo web e mobile em Expo, React Native e TypeScript para consulta de concursos de TI e educação, com filtros e lembretes de isenção. A versão documentada usa dados de demonstração; a coleta automática de editais e o envio de novos alertas por back-end ainda são próximos passos.
+- [SaaS de Varejo com IA](https://github.com/renan-b-eth/ia-saas): projeto em Python, Flask e Docker.
+- [Rendey](https://github.com/renan-b-eth/rendey): site da Rendey LLC desenvolvido com Next.js e Tailwind CSS.
+
+As descrições apresentam os projetos e suas tecnologias. Não representam uma verificação de funcionamento em produção.
 
 ---
 
